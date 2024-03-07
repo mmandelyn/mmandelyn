@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 My name is Mandy! 
+I am a Junior at the University of North Alabama!
 
+😄 Majoring: Computer Information Systems & Accounting
+🌱 I’m currently in Web Development!
+⚡ Fun fact: Roar Lions Always!
 <!--
 **mmandelyn/mmandelyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
