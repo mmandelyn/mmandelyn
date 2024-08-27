@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Mandy! 
 
-I am a Junior at the University of North Alabama!
+I am a Senior at the University of North Alabama!
 
 - 😄 Majoring: Computer Information Systems & Accounting
 - 🌱 I’m currently in Projects in Information Systems!
