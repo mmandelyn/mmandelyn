@@ -3,7 +3,7 @@
 I am a Junior at the University of North Alabama!
 
 - 😄 Majoring: Computer Information Systems & Accounting
-- 🌱 I’m currently in Web Development!
+- 🌱 I’m currently in Projects in Information Systems!
 - ⚡ Fun fact: Roar Lions Always!
 <!--
 **mmandelyn/mmandelyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
